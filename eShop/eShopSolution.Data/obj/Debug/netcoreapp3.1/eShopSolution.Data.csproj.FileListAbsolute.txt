@@ -1,0 +1,8 @@
+G:\eshop\eShop\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.deps.json
+G:\eshop\eShop\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.dll
+G:\eshop\eShop\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.csprojAssemblyReference.cache
+G:\eshop\eShop\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.AssemblyInfoInputs.cache
+G:\eshop\eShop\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.AssemblyInfo.cs
+G:\eshop\eShop\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.runtimeconfig.json
+G:\eshop\eShop\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.runtimeconfig.dev.json
+G:\eshop\eShop\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.genruntimeconfig.cache
