@@ -6,3 +6,7 @@ G:\eshop\eShop\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.Ass
 G:\eshop\eShop\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.runtimeconfig.json
 G:\eshop\eShop\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.runtimeconfig.dev.json
 G:\eshop\eShop\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.genruntimeconfig.cache
+G:\eshop\eShop\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.pdb
+G:\eshop\eShop\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.csproj.CoreCompileInputs.cache
+G:\eshop\eShop\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.dll
+G:\eshop\eShop\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.pdb
